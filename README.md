@@ -263,4 +263,5 @@ the console rather than pretending the write worked.
 - CMake 3.16 or newer
 - A C++17 compiler (the project was built with MinGW-w64 from MSYS2)
 #   M i n d F o r g e  
+ #   M i n d F o r g e  
  
