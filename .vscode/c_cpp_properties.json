@@ -1,0 +1,25 @@
+{
+    "version": 4,
+    "configurations": [
+        {
+            "name": "Win64",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "C:/msys64/ucrt64/include"
+            ],
+            "defines": [],
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "C:/msys64/ucrt64/bin/g++.exe"
+        }
+    ],
+    "version2": {
+        "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+        "includePath": [
+            "${workspaceFolder}/include",
+            "C:/msys64/ucrt64/include"
+        ],
+        "cppStandard": "gnu++17"
+    }
+}

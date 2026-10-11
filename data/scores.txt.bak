@@ -1,0 +1,13 @@
+# QuizMaster - high score table
+#
+# Every finished quiz adds one line here. Only the best 10 results are kept,
+# highest score first.
+#
+# The format is:
+#   PlayerName|Score|MaxScore|Category|Difficulty|Date
+#
+# The bars are part of the format, because a name or a category may contain a
+# space (for example "General Knowledge"). The game only understands this one
+# format, so keep it if you edit the file by hand.
+#
+# An empty file is fine - the table is then created after the first quiz.

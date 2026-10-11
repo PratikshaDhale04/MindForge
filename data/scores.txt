@@ -1,0 +1,4 @@
+pradnya|110|120|C++|Hard|2026-10-11
+saniya|100|120|General Knowledge|Hard|2026-10-11
+pratiksha|80|80|Python|Medium|2026-09-30
+sanika|50|50|SQL|Easy|2026-10-11

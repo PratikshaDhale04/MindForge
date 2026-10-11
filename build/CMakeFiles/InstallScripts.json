@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/quizmaster/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

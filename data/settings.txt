@@ -1,0 +1,14 @@
+﻿# QuizMaster - settings
+#
+# The game reads this file when it starts and writes it whenever a switch is
+# changed on the Settings screen.
+#
+# sound       1 = sound effects on, 0 = off
+# animations  1 = animations on,   0 = off
+# theme       dark or light
+#
+# Missing or empty file? The defaults below are simply used instead.
+
+sound=1
+animations=1
+theme=dark

@@ -1,0 +1,54 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "QuizMaster: build",
+            "type": "shell",
+            "windows": {
+                "command": "cmd.exe",
+                "args": ["/c", "build.bat"]
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared",
+                "clear": true
+            }
+        },
+        {
+            "label": "QuizMaster: rebuild (clean)",
+            "type": "shell",
+            "windows": {
+                "command": "cmd.exe",
+                "args": ["/c", "build.bat", "clean"]
+            },
+            "group": "build",
+            "problemMatcher": ["$gcc"],
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared",
+                "clear": true
+            }
+        },
+        {
+            "label": "QuizMaster: build and run",
+            "detail": "Builds the project, then starts the game.",
+            "type": "shell",
+            "dependsOrder": "sequence",
+            "dependsOn": ["QuizMaster: build"],
+            "windows": {
+                "command": "cmd.exe",
+                "args": ["/c", "run_quizmaster.bat"]
+            },
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        }
+    ]
+}

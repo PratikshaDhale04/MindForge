@@ -1,0 +1,10 @@
+# ninja log v7
+60	1330	8124792986985240	CMakeFiles/QuizMaster.dir/src/Quiz.cpp.obj	6f8c864cd7441b19
+96	1612	8124792987346488	CMakeFiles/QuizMaster.dir/src/Audio.cpp.obj	128bd8b87ff7170f
+51	1682	8124792986895813	CMakeFiles/QuizMaster.dir/src/Button.cpp.obj	38fcabd212455fa6
+53	13424	8134036152889790	CMakeFiles/QuizMaster.dir/src/main.cpp.obj	26b290703e8e68e9
+82	2184	8124792987206689	CMakeFiles/QuizMaster.dir/src/Notification.cpp.obj	c7c1db29d40b9034
+71	3635	8124792987086242	CMakeFiles/QuizMaster.dir/src/Question.cpp.obj	27f986352feeb70e
+67	5425	8134043145834933	CMakeFiles/QuizMaster.dir/src/Game.cpp.obj	28409accf4458dcb
+34	3061	8134041927741098	bin/QuizMaster.exe	5f37fa3f0081645f
+61	2255	8134043324647079	bin/QuizMaster.exe	5f37fa3f0081645f
